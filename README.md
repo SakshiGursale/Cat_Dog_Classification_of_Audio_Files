@@ -1,4 +1,4 @@
-# Cat_Dog_Classification_of_Audio_Files
+# Cat_Dog_Classification_of_Audio_Files Using Deep Learning
 
 ### 1.Collect and preprocess audio data: 
 Gather a diverse dataset of audio recordings containing cat and dog sounds. Preprocess the audio files to ensure consistent format, quality, and length.
